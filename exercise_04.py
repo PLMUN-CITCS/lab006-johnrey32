@@ -12,7 +12,8 @@ def main():
     angle_radians = math.radians(angle_degrees)
     sin_result = math.sin(angle_radians)
     cos_result = math.cos(angle_radians)
-    tan_result = math.tan(angle_radians)exp_result = math.exp(2)
+    tan_result = math.tan(angle_radians)
+    exp_result = math.exp(2)
     log_result = math.log(10)  # Natural log (base e)
     log10_result = math.log(100, 10) # Log base 10
     print("Square root of", number, "is:", sqrt_result)
